@@ -3,6 +3,7 @@
 YBIGTA DS팀 방학세션의 마지막 세션입니다~  
 이번 세션에서는 AutoGen을 직접 실습해보며 다양한 기능과 Conversation Pattern, Code Excutors, Tool Use 등을 배웁니다.
 
+[Reference](https://microsoft.github.io/autogen/0.2/docs/tutorial/)
 ---
 
 ## 목차
